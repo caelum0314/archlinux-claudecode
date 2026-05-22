@@ -1,1 +1,1 @@
-安装预览网址：https://bbbbbb-rosy.vercel.app/（需要梯子）
+（要魔法）安装预览网址：https://bbbbbb-rosy.vercel.app/
