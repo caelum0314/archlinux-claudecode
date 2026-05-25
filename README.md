@@ -2,7 +2,7 @@
 
 本教程涵盖在 Arch Linux 上安装 Claude Code CLI 的全部步骤，包括代理 / 无代理两种方式、常见问题排查、以及 CC Switch 快速切换工具。
 
-> 在线预览：https://bbbbbb-rosy.vercel.app/
+> 在线预览：[https://archlinux-claudecode.vercel.app/]
 
 ---
 
